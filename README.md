@@ -13,7 +13,7 @@ Primeiro foi implementada uma calculadora distribuída utilizando Python e gRPC,
 
 O gRPC foi escolhido por ser uma implementação moderna e de alto desempenho de RPC, com suporte a múltiplas linguagens e comunicação baseada em HTTP/2 e Protobuf, facilitando a serialização dos dados transmitidos entre cliente e servidor.
 
-⚙️ 2. Metodologia
+2. Metodologia
 
 O desenvolvimento foi dividido em duas etapas principais, conforme as atividades propostas.
 
